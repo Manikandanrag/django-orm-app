@@ -92,7 +92,7 @@ admin.site.register(Student,StudentAdmin)
 ## OUTPUT
 
 ##studentlist:
-![studentlist.png](stdentlist.png)
+![studentlist.png](studentlist.png)
 ##error list:
 ![primarykeyerror.png](primarykeyerror.png)
 
